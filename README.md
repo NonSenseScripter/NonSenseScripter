@@ -1,7 +1,6 @@
 # 💫 About Me:
 ➡ I'm working on my web developer abilities and also in<br>     my onw projects. 💻<br><br>➡ I'm looking for different dev experiences in order to <br>     increase my knowledge and skills. 📈<br><br>➡ I'm always learning about different technologies <br>     regarding Web Development. ⏳<br><br>➡ Ask me about Web Design - JS Frameworks - Usability<br>     Microservices - Software Architecture - Cloud computing. 📚<br><br>➡  I do really love working in team. 🙌<br><br><br> <br>  <br><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev77luis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LuisZuniga) 
 
